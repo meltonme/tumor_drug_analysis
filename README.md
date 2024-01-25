@@ -38,5 +38,7 @@ There is a strong correlation (.84) between mouse weight and average tumor volum
 
 ![Weight vs Volume](Pymaceuticals/Images/MouseWeight_TumorVolume_Correlation.png)
 
-
+## Conclusion
+When comparing all nine drug treatments, along with placebo, the analysis shows that Capomulin and Ramicane had a longer survival rate when compared to the other drugs tested. The remaining drugs had a similar survival rate as compared to placebo, suggesting that they may be ineffective for treating squamous cell carcinoma (SCC). 
+ 
 
