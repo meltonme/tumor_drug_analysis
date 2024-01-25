@@ -33,6 +33,10 @@ We can look closer at the response individual subject (mouse u364) to Capomulin 
 ![Sample Treatment](Pymaceuticals/Images/Mouse_u364_Treatment.png)
 
 
+### Capomulin - Correlation Between Mouse Weight and Average Tumor Volume
+There is a strong correlation (.84) between mouse weight and average tumor volume, suggesting that weight of the mouse may impact the effectiveness of Capomulin drug treatment. This should be considered when evaluating the overall efficacy of the drug.
+
+![Weight vs Volume](Pymaceuticals/Images/MouseWeight_TumorVolume_Correlation.png)
 
 
 
