@@ -30,7 +30,7 @@ With Capomulin and Ramicane as the drugs of interest for the company, I examined
 ### Response Sample for Capomulin
 We can look closer at the response individual subject (mouse u364) to Capomulin drug treatment. The tumor volume starts at 45 (mm3) at the beginning of the treatment. It continues to grow for the first 20 days while the drug is administered, but shows significant decrease in volume over the remainder of the treatment.
 
-![Sample Treatment](Pymaceuticals/Images/Mouse u364 Treatment.png)
+![Sample Treatment](Pymaceuticals/Images/Mouse_u364_Treatment.png)
 
 
 
